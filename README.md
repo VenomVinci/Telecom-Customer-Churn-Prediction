@@ -1,7 +1,5 @@
 # Telecom Customer Churn Prediction
 
-This is a beginner/intermediate machine learning project I built to revise what I learned in **Andrew Ng's Machine Learning Specialization – Course 1**.
-
 The goal of this project is to predict whether a telecom customer will **leave the company (churn)** based on their information and services.
 
 ## Dataset
